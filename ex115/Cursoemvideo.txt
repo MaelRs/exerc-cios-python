@@ -1,0 +1,7 @@
+Jose;35
+Paulo;29
+Ana;23
+Maria;8
+Alice;28
+Ismael;37
+Kelly Santana;19
